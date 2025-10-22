@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Denim_Anket", "Denim_Anket\Denim_Anket.csproj", "{18E14462-EF2A-4605-BED3-AACEBFF458FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E14462-EF2A-4605-BED3-AACEBFF458FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E14462-EF2A-4605-BED3-AACEBFF458FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E14462-EF2A-4605-BED3-AACEBFF458FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E14462-EF2A-4605-BED3-AACEBFF458FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4199E215-4BFA-4BF1-8328-9D1D88192CE0}
+	EndGlobalSection
+EndGlobal

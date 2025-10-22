@@ -1,0 +1,298 @@
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+C:\Users\batuh\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Batuhan\Desktop\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\Hp\Desktop\Yeni klasör\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\Hp\Desktop\221022\21102022\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+P:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+D:\Projeler_Klasoru\source\repos\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll.config
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Denim_Anket.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Denim_Anket.pdb
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csc.exe.config
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csc.rsp
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csi.exe.config
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\csi.rsp
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Buffers.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Memory.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\vbc.exe.config
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\vbc.rsp
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\bin\Newtonsoft.Json.xml
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CopyComplete
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\Buse ÖZLER\Desktop\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
+C:\Users\Batuhan Özler\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.AssemblyReference.cache
+C:\Users\Batuhan Özler\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Özler\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.dll
+C:\Users\Batuhan Özler\OneDrive\Masaüstü\Denim_Anket\Denim_Anket\obj\Debug\Denim_Anket.pdb
