@@ -1,6 +1,6 @@
 # Fabrika Çalışan Memnuniyeti Anketi
 
-# 🏭 Staj Projesi: Fabrika Çalışan Memnuniyeti Anket Sistemi Veritabanı Şeması
+# 🏭  Fabrika Çalışan Memnuniyeti Anket Sistemi Veritabanı Şeması
 
 Bu depo, staj sürem boyunca **imalat/üretim sektörüne yönelik** hazırladığım ve **Fabrika Çalışan Memnuniyeti** süreçlerini yönetmek için tasarlanan uygulamanın temel veritabanı yapısını (DDL) içermektedir.
 
